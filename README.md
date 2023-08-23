@@ -8,15 +8,6 @@
     <li> 🚀 Focado em novas experiências.</li>
   </ul>
 </h2>
-
-  <br>
-<div align="center" style="display: inline_block">
-  <a href="https://github.com/Emanuel-lima">
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuel-lima&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-lima&layout=compact&langs_count=7&theme=synthwave"/>
-
-</div>
  
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Emanuel-lima-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
@@ -40,11 +31,3 @@
   <a href = "mailto:emanuel.brlima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuel-lima-1b0b42204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  
-  ##
-  
-  <div align="center"> 
-
-  ![Snake animation](https://github.com/Emanuel-lima/Emanuel-lima/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
